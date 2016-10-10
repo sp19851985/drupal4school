@@ -1,13 +1,13 @@
-#d4s_bootstrap theme requirement
+# d4s_bootstrap theme requirement
 
-##Modules and dependency modules
+## Modules and dependency modules
 ### [Nivo slider](https://www.drupal.org/project/nivo_slider)
 - Install [Libraries API](https://www.drupal.org/project/libraries)
 - Install [jQuery Update](https://www.drupal.org/project/jquery_update) - configured to use jQuery 1.7 or higher.
 - Copy [Nivo Slider jQuery plugin](https://github.com/gilbitron/Nivo-Slider) to sites/all/libraries/nivo-slider
-###[Quick Tabs](https://www.drupal.org/project/quicktabs)
-###[Bootstrap Quicktabs](https://www.drupal.org/project/bootstrap_quicktabs)
-###[Owl Carousel](https://www.drupal.org/search/site/Owl%20Carousel)
+### [Quick Tabs](https://www.drupal.org/project/quicktabs)
+### [Bootstrap Quicktabs](https://www.drupal.org/project/bootstrap_quicktabs)
+### [Owl Carousel](https://www.drupal.org/search/site/Owl%20Carousel)
 - Copy [Owl Carousel library](http://www.owlcarousel.owlgraphic.com/download/owl.carousel.zip) to sites/all/libraries/owlcarousel
 ###[Font Awesome](https://www.drupal.org/project/fontawesome)
 - Copy [Font Awesome](https://github.com/FortAwesome/Font-Awesome) to sites/all/libraries/fontawesome
