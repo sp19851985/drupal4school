@@ -8,7 +8,7 @@
 ### [Quick Tabs](https://www.drupal.org/project/quicktabs)
 ### [Bootstrap Quicktabs](https://www.drupal.org/project/bootstrap_quicktabs)
 ### [Owl Carousel](https://www.drupal.org/search/site/Owl%20Carousel)
-- Copy [Owl Carousel library](http://www.owlcarousel.owlgraphic.com/download/owl.carousel.zip) to sites/all/libraries/owlcarousel
+- Copy [Owl Carousel library](http://owlgraphic.com/owlcarousel/owl.carousel.zip) to sites/all/libraries/owlcarousel
 ###[Font Awesome](https://www.drupal.org/project/fontawesome)
 - Copy [Font Awesome](https://github.com/FortAwesome/Font-Awesome) to sites/all/libraries/fontawesome
 
