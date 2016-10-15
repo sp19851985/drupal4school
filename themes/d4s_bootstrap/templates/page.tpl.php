@@ -150,6 +150,7 @@
         </div>
     </div>
 </div>
+<?php if (!empty($page['top_content'])): ?>
 <div class="container-fluid">
     <div class="row">
         <div class="container-fluid" id="d4s_top_content">
@@ -159,6 +160,7 @@
         </div>
     </div>
 </div>
+<?php endif; ?>
 <div class="main-container <?php print $container_class; ?>">
     <div class="row">
 

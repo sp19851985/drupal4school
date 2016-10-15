@@ -99,7 +99,7 @@
     font-size: 100% !important;
     vertical-align: baseline !important;
     display: block !important;
-    min-height: 300px !important;
+    min-height: 280px !important;
 }
 .view-booking-system-views p{
     text-align: left;
@@ -133,7 +133,7 @@
     font-size: 32px;
     color: #3185cb;
     line-height: 1.25;
-    margin-top: 50px !important;
+    margin-top: 30px !important;
 }
 /*結束活動報導標題文字*/
 /*開始活動報導影像*/
@@ -491,3 +491,6 @@ hr{
     margin-top: 40px;
 }
 /*結束修改hr*/
+.main-container{
+    margin-top: 40px;
+}
